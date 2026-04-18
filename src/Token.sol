@@ -7,8 +7,6 @@ import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Permit.sol";
 import "@openzeppelin/contracts/access/AccessControl.sol";
 import "@openzeppelin/contracts/utils/Pausable.sol";
 
-/// @title PortfolioToken
-/// @author Your Name
 /// @notice ERC20 token with minting, burning, pausing, and role-based permissions
 /// @dev Built with OpenZeppelin v5. Gas-optimized storage layout.
 contract PortfolioToken is ERC20, ERC20Burnable, ERC20Permit, AccessControl, Pausable {
