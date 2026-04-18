@@ -62,12 +62,6 @@ PortfolioToken
 
 ---
 
-**Coverage result:**
-
-| File      | % Lines | % Statements | % Branches | % Funcs |
-|-----------|---------|--------------|------------|---------|
-| Token.sol | 94.12%  | 91.67%       | 88.89%     | 100%    |
-
 ---
 
 ## License
